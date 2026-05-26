@@ -2,7 +2,7 @@
 
 🎓 Electronics & Communication Engineering Student passionate about building intelligent real-world systems that combine **hardware, software, AI, IoT, and automation**.
 
-⚡ I love developing projects where electronics meets modern software engineering — from embedded systems and energy management platforms to AI-powered applications and smart automation solutions.
+⚡ I love developing projects where electronics meets modern software engineering, from embedded systems and energy management platforms to AI-powered applications and smart automation solutions.
 
 ---
 
