@@ -20,17 +20,23 @@
 
 ## 🛠️ Featured Projects
 
-### ⚡ Solar Enerlytics
-Smart solar power monitoring & energy optimization system with real-time IoT hardware integration.
+##⚡ Solar Enerlytics  
+Smart solar power monitoring & energy optimization system with real-time IoT hardware integration, battery management, relay automation, and live analytics.
 
-### 🩺 VaidyaMithra
-AI-powered healthcare assistant combining APIs, chatbot systems, and modern web technologies.
+##🩺 VaidyaMithra  
+AI-powered healthcare assistant combining APIs, chatbot systems, intelligent guidance, and modern web technologies.
 
-### ♻️ Robotic Arm for Waste Segregation
-Automation-based waste sorting system using sensors and embedded control.
+##✈️ Trip Tracker  
+Collaborative travel planning mobile application with expense management, itinerary planning, AI chatbot, and Firebase real-time synchronization.
 
-### 🗑️ Smart Waste Management App
-Feature-rich mobile application for intelligent waste tracking and management.
+##💰 FinTracker  
+Modern personal finance management application featuring expense tracking, transaction history, budgeting, and financial analytics.
+
+##♻️ Robotic Arm for Waste Segregation  
+Automation-based waste sorting system using sensors, embedded control systems, and robotic arm mechanisms.
+
+##🗑️ Smart Waste Management App  
+Feature-rich mobile application for intelligent waste tracking, monitoring, and smart management systems.
 
 ---
 
