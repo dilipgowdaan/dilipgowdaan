@@ -1,56 +1,108 @@
 # 👋 Hi, I'm Dilip Kumar A N
 
-🎓 Electronics & Communication Engineering Student passionate about building intelligent real-world systems that combine **hardware, software, AI, IoT, and automation**.
+🎓 **Full Stack Engineer | Software & Systems Enthusiast**
 
-⚡ I love developing projects where electronics meets modern software engineering, from embedded systems and energy management platforms to AI-powered applications and smart automation solutions.
+I’m a Full Stack Developer with a background in Electronics & Communication Engineering and IT infrastructure. I build scalable, user-focused applications across the frontend, backend, databases, and cloud.
 
----
+I’m particularly interested in **full-stack development, system design, cloud architecture, AI-powered applications, and IoT systems**.
 
 ## 🚀 What I Build
 
-- 🌞 IoT-based Smart Energy Management Systems
-- 🤖 Robotics & Automation Projects
-- 📱 Mobile Applications with Real-Time Features
-- 🌐 Full Stack Web Applications
-- 🧠 AI & ML Integrated Systems
-- 🔌 Embedded & ESP32-Based Solutions
-- ☁️ Cloud-connected Monitoring Dashboards
+- 🌐 **Full Stack Applications** — React, TypeScript, Python, Node.js
+- ⚙️ **Backend & System Design** — REST APIs, Microservices, Docker, Kubernetes
+- 🗄️ **Database Systems** — PostgreSQL, MongoDB, Supabase, Firebase
+- ☁️ **Cloud & Deployment** — Vercel, Docker, CI/CD, scalable architectures
+- 🤖 **AI & LLM Applications** — AI assistants, intelligent workflows, data-driven systems
+- 🔌 **IoT & Edge Systems** — ESP32, Raspberry Pi, real-time hardware-to-cloud solutions
 
----
+## 💻 Tech Stack
+
+### Languages
+
+`JavaScript` `TypeScript` `Python` `C` `SQL`
+
+### Frontend
+
+`React` `React Native` `HTML` `CSS`
+
+### Backend
+
+`Node.js` `Express` `Python` `Flask`
+
+### Databases
+
+`PostgreSQL` `MongoDB` `Supabase` `Firebase`
+
+### DevOps & Architecture
+
+`Docker` `Kubernetes` `Git` `GitHub` `System Design` `Vercel`
+
+### Hardware & IoT
+
+`ESP32` `Arduino` `Raspberry Pi` `UART` `SPI` `I2C` `Embedded Systems`
 
 ## 🛠️ Featured Projects
 
-### ⚡ Solar Enerlytics  
-Smart solar power monitoring & energy optimization system with real-time IoT hardware integration, battery management, relay automation, and live analytics.
+### ⚡ Solar Enerlytics
 
-### 🩺 VaidyaMithra  
-AI-powered healthcare assistant combining APIs, chatbot systems, intelligent guidance, and modern web technologies.
+**IoT Energy Management Platform**
 
-### ✈️ Trip Tracker  
-Collaborative travel planning mobile application with expense management, itinerary planning, AI chatbot, and Firebase real-time synchronization.
+An end-to-end energy management system combining ESP32-based hardware with a modern full-stack platform. Includes ML-assisted energy decision-making, role-based access, automated billing, real-time monitoring, and analytics using **Supabase and PostgreSQL**.
 
-### 💰 FinTracker  
-Modern personal finance management application featuring expense tracking, transaction history, budgeting, and financial analytics.
+### 🩺 VaidyaMithra
 
-### ♻️ Robotic Arm for Waste Segregation  
-Automation-based waste sorting system using sensors, embedded control systems, and robotic arm mechanisms.
+**AI-Powered Hospital Management Platform**
 
-### 🗑️ Smart Waste Management App  
-Feature-rich mobile application for intelligent waste tracking, monitoring, and smart management systems.
+A full-stack healthcare management platform with role-based dashboards, an LLM-powered symptom assistant, real-time updates, geolocation-based suggestions, and push notifications using **Firebase**.
 
----
+### 🌾 Namma Raitha
+
+**Hyper-Local Agricultural Marketplace**
+
+A digital marketplace connecting farmers directly with buyers. Features role-based dashboards, inventory management, geolocation-based discovery, real-time analytics, and multilingual support.
+
+### 🗑️ Smart Waste Management System
+
+**Real-Time Waste Collection Platform**
+
+A React Native mobile platform for monitoring waste collection operations with live tracking, geolocation features, collection management, and operational dashboards.
+
+### ✈️ Trip Expense Tracker
+
+**Collaborative Travel Expense Management**
+
+A mobile application designed for group travel expense management with real-time balance tracking, quick expense logging, spending analytics, and budget alerts.
+
+## 💼 Professional Experience
+
+**Technical Support Engineer @ URSC / ISRO**  
+*Mar 2022 – Dec 2023*
+
+- Supported IT infrastructure across a large-scale technical environment.
+- Performed hardware diagnostics and Linux/Windows system administration.
+- Troubleshot LAN, network, and connectivity issues.
+- Worked with Fortinet firewall infrastructure and network troubleshooting.
+- Developed practical experience in system reliability, infrastructure support, and technical problem-solving.
+
+## 🎓 Education
+
+**B.E. — Electronics & Communication Engineering**  
+R V College of Engineering · 2023 – 2026
+
+**Diploma — Electronics & Communication Engineering**  
+Government Polytechnic · 2019 – 2021
 
 ## 💡 Interests
 
-`IoT` • `Embedded Systems` • `AI Integration` • `Renewable Energy` • `Automation` • `Full Stack Development` • `Smart Systems`
-
----
+`Full Stack Development` • `System Design` • `Cloud Architecture` • `AI/LLMs` • `IoT` • `Embedded Systems` • `Aerospace Technologies` • `Formula 1`
 
 ## 📫 Connect With Me
 
-📧 Email: dilipgowda7259@gmail.com  
-📱 Phone: +91 7259447817
+📧 **Email:** dilipgowda7259@gmail.com  
+📱 **Phone:** +91 7259447817  
+🔗 **LinkedIn:** [linkedin.com/in/dilipkumaran](https://www.linkedin.com/in/dilipkumaran)  
+🌐 **Portfolio:** [dilipgowda.xyz](https://dilipgowda.xyz)
 
 ---
 
-> Always interested in collaborating on innovative projects involving hardware + software integration.
+> Building practical software systems, exploring system design, and constantly learning across the stack.
